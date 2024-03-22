@@ -1,2 +1,2 @@
 # Parcelamento_Cliente
- API construída para cadastrar clientes e seus respectivos parcelamentos de compra.
+ API construída para cadastro de clientes e seus respectivos parcelamentos de compra.
